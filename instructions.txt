@@ -1,1 +1,2 @@
 This is instruction file giving you the path to manage this web site
+line 2 added
