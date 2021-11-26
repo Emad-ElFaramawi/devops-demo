@@ -1,2 +1,6 @@
 This is instruction file giving you the path to manage this web site
+<<<<<<< HEAD
 line 2 added
+=======
+line 2 added from github
+>>>>>>> b847771d1f86aa29f46dcb6276d01878e3a5ea93
