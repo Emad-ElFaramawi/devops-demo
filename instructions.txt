@@ -1,6 +1,6 @@
 This is instruction file giving you the path to manage this web site
 line 2 added
 line 2 added from github
-
 line 3 added from github
 line 6 added by dev-branch
+addint more text to "add-more-instructions" branch
