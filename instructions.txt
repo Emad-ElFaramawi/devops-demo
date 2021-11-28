@@ -4,3 +4,4 @@ line 2 added from github
 line 3 added from github
 line 6 added by dev-branch
 addint more text to "add-more-instructions" branch
+instruction fixed
